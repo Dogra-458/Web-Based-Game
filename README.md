@@ -1,0 +1,5 @@
+This is a Web Based Game
+You can use this project to help you build a similar game
+I have created this game using web languages like HTML, CSS and JS
+I have used some Animation to make this game little bit fun to play
+This game has some audio to keep player motivated 
